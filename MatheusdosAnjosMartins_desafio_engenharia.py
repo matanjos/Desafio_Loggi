@@ -1,7 +1,7 @@
 '''
 Nome: Matheus dos Anjos Martins         
 Universidade: Universidade Federal do Vale do São Francisco - Univasf
-Curso: Engenharia da Computação (dez/2022 com possibilidade de flexibilizar)
+Curso: Engenharia da Computação
 Semestre atual: 10º
 '''
 
